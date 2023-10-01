@@ -1,11 +1,11 @@
 public class Main2 {
     public static void main(String[] args) {
         System.out.println();
-        System.out.println("First task: ");
-        int i = 1;
-        while (i <= 10) {
-            System.out.print(i + " ");
-            i++;
-        }
+        System.out.println("Second task: ");
+        int j = 10;
+        do {
+            System.out.print(j + " ");
+            j--;
+        } while (j >= 1);
     }
 }

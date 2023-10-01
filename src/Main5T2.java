@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main6T2 {
+public class Main5T2 {
 
 
 

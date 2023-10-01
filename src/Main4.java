@@ -1,10 +1,9 @@
 public class Main4 {
     public static void main(String[] args) {
         System.out.println();
-        System.out.println("Fourth task: ");
-        String text = "Hello, World!";
-        for (int m = 0; m < text.length(); m++) {
-            System.out.println(text.charAt(m));
-        }
-    }
+        System.out.println("Fifth task: ");
+        for (int row = 1; row <= 3; row++) {
+            for (int col = 1; col <= 3; col++) {
+                System.out.println("Row: " + row + ", Column: " + col);
+    }  }   }
 }
