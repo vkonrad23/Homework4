@@ -13,7 +13,6 @@ public class Main {
             i++;
         }
 
-        // 2
         System.out.println();
         System.out.println("Second task: ");
         int j = 10;
